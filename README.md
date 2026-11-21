@@ -55,6 +55,12 @@ Hoshizora pulls messy, inconsistent data from five public space-data sources, no
 
 Pages: Home, Launches (cadence by nation, success rates, busiest pads, booster reuse and landings), Near-Earth (close approaches, size against distance, Sentry impact risk), Sun (flares, Kp, solar wind, aurora forecast), Exoplanets (discoveries, size against orbit, nearest planets), Agencies (a profile for each organization) and Sources & Credits.
 
+### Current interface
+
+| Home | Launches |
+| --- | --- |
+| ![Hoshizora home page: every number has a source, the next launch countdown and current space weather](docs/media/hoshizora-home-current.webp) | ![Hoshizora launches page: launch facts and launches per year by national program](docs/media/hoshizora-launches-current.webp) |
+
 ## Architecture
 
 ```mermaid
